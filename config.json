@@ -1,0 +1,18 @@
+{
+  "accessibility.onboarding.screen.narrator": 4,
+  "accessibility.onboarding.screen.title": "c",
+  "addServer.add": 6,
+  "addServer.enterIp": "e",
+  "addServer.enterName": 2,
+  "addServer.hideAddress": "a",
+  "addServer.resourcePack": "b",
+  "addServer.resourcePack.disabled": 3,
+  "addServer.resourcePack.enabled": 1,
+  "addServer.resourcePack.prompt": 9,
+  "addServer.title": "d",
+  "advMode.allEntities": 5,
+  "advMode.allPlayers": "f",
+  "advMode.command": 7,
+  "advMode.mode": 8,
+  "advMode.mode.auto": 0
+}

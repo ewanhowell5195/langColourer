@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "easy-file-dialogs": "^1.2.0"
+  }
+}
