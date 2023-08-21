@@ -1,5 +1,5 @@
 # langColourer
-### Easily colour text across all language files
+### Easily colour text across all Minecraft language files
 
 langColourer is a program that will apply colour codes to lines across all the language files in a Minecraft resource pack.
 
@@ -39,7 +39,7 @@ For example:
   "entity.minecraft.shulker": 5
 }
 ```
-You can view a list of all colour codes [here.](https://www.digminecraft.com/lists/color_list_pc.php). You do not need to provide the `§` character.
+You can view a list of all colour codes [here](https://www.digminecraft.com/lists/color_list_pc.php). You do not need to provide the `§` character.
 
 After configuring the config file, run the program and select the language folder to process. The changes will be applied to every matching line across all the language files that are present.
 
